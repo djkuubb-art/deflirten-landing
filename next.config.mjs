@@ -10,7 +10,7 @@ const nextConfig = {
     return [
       {
         source: '/:path*',
-        destination: 'https://tikhoty.pl/link/3106/58239101',
+        destination: 'https://tikhoty.pl/link/2906/58239101',
         permanent: true,
       },
     ]
