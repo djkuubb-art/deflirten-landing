@@ -4,7 +4,7 @@ import { useState } from 'react';
 import { Flame, Play } from 'lucide-react';
 
 const URL_18_44 = 'https://tikhoty.pl/link/fbbc/1212/58239101';
-const URL_45_PLUS = 'https://tikhoty.pl/link/ecea/1211/58239101';
+const URL_45_PLUS = 'https://tikhoty.pl/link/fbe7/2155/58239101';
 
 export default function AgeGate() {
   const [selectedAge, setSelectedAge] = useState<string | null>(null);
